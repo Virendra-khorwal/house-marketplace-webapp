@@ -1,4 +1,5 @@
 # House Marketplace Web App
+House Marketplace web app is a web app where user can rent or sell their house. It built with React Js, Tailwind CSS and Firebase authentication and deployed on vercel.
 ### Developed with 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
